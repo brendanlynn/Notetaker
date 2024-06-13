@@ -1,2 +1,2 @@
 # Notetaker
-An insecure, but offline digital journal,
+An insecure, but offline digital journal.
